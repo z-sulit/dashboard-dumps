@@ -65,13 +65,6 @@ Highlights the Top 20 customers by revenue and Bottom 10 customers, along with t
 ![Sarpino's - Monthly Trends](Sarpinos4.png)
 Displays city/outlet filter (defaulting to Davao), monthly revenue trend chart, top 3 performing outlets, and payment method usage (Stripe vs Cash).
 
----
-
-## Tools Used
-
-- **Microsoft Power BI** — primary dashboard tool for all projects
-- **Synthetic / sample datasets** — Amazon logistics data, pizza chain sales, household waste logs, and small business sales records
-- **GitHub** — version control and portfolio hosting
 
 ---
 
